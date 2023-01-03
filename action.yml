@@ -16,11 +16,11 @@ inputs:
   env_var_name:
     description: "env var"
     required: false
-    default: "ENV_VAR"
+    default: ""
   env_var_value:
     description: "env var value"
     required: false
-    default: "ENV_VALUE
+    default: ""
   security_control_output_file:
     description: "path to the security control output"
     required: false
